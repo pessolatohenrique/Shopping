@@ -1,0 +1,22 @@
+.contato{
+	border-top: 2px solid gray;
+	padding-top: 15px;
+}
+.contato a{
+	text-decoration: none;
+	color: #458B74;
+	display: block;
+	margin-top: 20px;
+}
+.contato h3{
+	font-size: 20px;
+	text-transform: uppercase;
+	padding-bottom: 18px;
+}
+.contato p{
+	color: #696969;
+}
+.endereco,.funcionamento,.telefones{
+	width: 33.3%;
+	float: left;
+}

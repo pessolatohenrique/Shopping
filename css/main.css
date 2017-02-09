@@ -86,3 +86,58 @@ header h1, .menu-principal{
 .space-content{
 	margin-bottom: 10px;
 }
+.rodape{
+	clear: both;
+	background-color: #27408B;
+	margin-top: 150px;
+	padding-left: 80px;
+	padding-bottom: 10px;
+	box-sizing: border-box;
+}
+.referencias, .sobreShopping,.trabalheConosco{
+	width: 25%;
+	float: left;
+}
+.referencias li, .sobreShopping li, .trabalheConosco li, .newsLetter{
+	padding-top: 20px;
+}
+.referencias a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	font-size: 24px;
+}
+.sobreShopping a, .trabalheConosco a, .newsLetter h4{
+	text-decoration: none;
+	color: #009ACD;
+}
+.newsLetter h4{
+	text-transform: uppercase;
+	font-size: 20px;
+	line-height: 1.3em;
+}
+.newsLetter p{
+	color: white;
+	width: 100%;
+}
+.linkBotao{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	border: 3px solid white;
+	padding: 10px 80px;
+}
+.linkBotao:hover{
+	background-color: white;
+	color: #27408B;
+}
+.social{
+	margin-top: 30px;
+}
+.social li{
+	display: inline-block;
+	padding-left: 10px;
+}
+.social a{
+	color: white;
+}
