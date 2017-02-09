@@ -1,0 +1,88 @@
+body{
+	font-family: "Open Sans",Arial,Verdana,sans-serif;
+}
+header h1{
+	margin-left: 30px;
+}
+header h1, .menu-principal{
+	float: left;
+	box-sizing: border-box;
+}
+.menu-principal{
+	width: 70%;
+	padding-top: 23px;
+	margin-left: 20px;
+	background: #fff;
+}
+.servicos{
+	width: 75%;
+}
+.servicos li{
+	display: inline-block;
+	margin-right: 50px;
+}
+.servicos li:last-child{
+	padding-left: 30px;
+	text-align: center;
+	position: relative;
+	top: 8px;
+}
+.menu-principal a, .menu-login a{
+	text-transform: uppercase;
+	font-weight: bold;
+	text-decoration: none;
+}
+.menu-principal a:hover, .menu-login a:hover{
+	color: #008B45;
+}
+.servicos a{
+	color: #828282;
+}
+.servicos li:last-child a{
+	color: #458B74;
+	font-weight: normal;
+}
+.localizacao-texto{
+	font-weight: bold;
+}
+.menu-login{
+	width: 10%;
+	float: right;
+	box-sizing: border-box;
+	position: relative;
+	bottom: 12px;
+	right: 40px;
+}
+.menu-login li{
+	display: inline-block;
+	padding-right: 12px;
+}
+.menu-login a{
+	color: #607B8B;
+}
+.fa-map-marker{
+	color: #458B74;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	/*padding-top: 100px;*/
+}
+.container h2, .verTodas{
+	text-transform: uppercase;
+	text-align: center;
+}
+.container h2{
+	font-size: 42px;
+	font-weight: 700;
+}
+.verTodas{
+	text-decoration: none;
+	color: #2E8B57;
+	font-weight: bold;
+	display: block;
+	line-height: 1.9em;
+}
+.space-content{
+	margin-bottom: 10px;
+}

@@ -1,0 +1,13 @@
+.lojas{
+	clear: both;
+}
+.lojas li:first-child,.lojas li:nth-child(2),.lojas li:nth-child(3),.lojas li:nth-child(4){
+	float: left;
+	box-sizing: border-box;
+	margin-left: 2px;
+}
+.ultimaLoja{
+	width:360px;
+	height: 454px;
+	margin-left: 2px;
+}
