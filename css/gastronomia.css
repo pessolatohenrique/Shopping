@@ -1,0 +1,18 @@
+.gastronomia{
+	margin-top: 20px;
+}
+.gastronomia li{
+	display: inline-block;
+	margin-left: 21px;
+}
+.gastronomia img{
+	border-radius: 100%;
+}
+.gastronomia figcaption{
+	text-align: center;
+	padding: 4px;
+}
+.gastronomia li > a{
+	text-decoration: none;
+	color: #00868B;
+}
