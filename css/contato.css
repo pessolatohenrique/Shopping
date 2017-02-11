@@ -1,17 +1,17 @@
 .contato{
-	border-top: 2px solid gray;
-	padding-top: 15px;
+	border-top: 0.2em solid gray;
+	padding-top: 0.75em;
 }
 .contato a{
 	text-decoration: none;
 	color: #458B74;
 	display: block;
-	margin-top: 20px;
+	margin-top: 1em;
 }
 .contato h3{
 	font-size: 20px;
 	text-transform: uppercase;
-	padding-bottom: 18px;
+	padding-bottom: 0.9em;
 }
 .contato p{
 	color: #696969;
