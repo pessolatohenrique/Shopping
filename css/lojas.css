@@ -10,4 +10,8 @@
 	width:18em;
 	height: 23em;
 	margin-left: 0.1em;
+	box-sizing: border-box;
+}
+.lojas img:hover{
+	opacity: 0.5;
 }
