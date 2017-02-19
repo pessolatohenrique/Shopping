@@ -29,6 +29,43 @@
 				</ul>
 			</p>
 		</section>
+		<section class="inauguracoes">
+			<h2>Próximas Inaugurações</h2>
+			<p>
+				Conheça as nossas próximas inaugurações, consultando a tabela abaixo.
+			</p>
+			<table class="tabela">
+				<thead>
+					<tr>
+						<th>Atração</th>
+						<th>Data</th>
+						<th>Descrição</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Livraria Cultura</td>
+						<td>10/02/2017</td>
+						<td>A maior livraria da América Latina chega ao nosso shopping, com total diversidade</td>
+					</tr>
+					<tr>
+						<td>Loja Saraiva</td>
+						<td>19/03/2017</td>
+						<td>Mais uma loja Saraiva, com 2 andares e diversidade de livros, CDs e DVDs</td>
+					</tr>
+					<tr>
+						<td>Teatro</td>
+						<td>26/05/2017</td>
+						<td>Teatro Martins Fontes, com shows musicais, teatro e stand-up; funcionará diariamente</td>
+					</tr>
+					<tr>
+						<td>Omeleteria</td>
+						<td>12/07/2017</td>
+						<td>Omeleteria criada pelos vencedores do Master Chef, com gastronomia de primeira</td>
+					</tr>
+				</tbody>
+			</table>
+		</section>
 	</div>
 </main>
 <?php require_once("include/rodape.php");
