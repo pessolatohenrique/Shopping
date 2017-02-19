@@ -142,6 +142,7 @@ header h1, .menu-principal{
 }
 .social{
 	margin-top: 1.7em;
+	position: relative;
 }
 .social li{
 	display: inline-block;
@@ -149,4 +150,15 @@ header h1, .menu-principal{
 }
 .social a{
 	color: white;
+}
+.social li > a:hover:after{
+	content: attr(data-tooltip);
+	font-size: 0.8em;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 0.5em;
+	position: absolute;
+	top: 0;
+	text-align: center;
 }
