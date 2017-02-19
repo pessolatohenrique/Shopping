@@ -162,3 +162,36 @@ header h1, .menu-principal{
 	top: 0;
 	text-align: center;
 }
+main h1{
+	text-transform: uppercase;
+	background-color: #008B45;
+	color: white;
+	font-size: 3em;
+	text-indent: 1.5em;
+	font-weight: bold;
+	padding: 0.6em 0;
+}
+.container p{
+	line-height: 1.1em;
+}
+strong{
+	font-weight: bold;
+}
+em{
+	font-style: italic;
+	color: #2E8B57;
+}
+.container p:nth-of-type(1){
+	padding-top: 0.6em;
+}
+.container p:nth-of-type(n+2){
+	text-indent: 1.2em;
+}
+.container p:nth-of-type(1):first-letter{
+	font-size: 2em;
+}
+.projetosSociais ul{
+	list-style-type: circle;
+	margin-left: 2em;
+	padding-top: 0.5em;
+}
