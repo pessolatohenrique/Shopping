@@ -11,6 +11,7 @@
 		<link rel="stylesheet" type="text/css" href="css/gastronomia.css">
 		<link rel="stylesheet" type="text/css" href="css/contato.css">
 		<link rel="stylesheet" type="text/css" href="css/anuncio.css">
+		<link rel="stylesheet" type="text/css" href="css/formulario.css">
 		<script src="https://use.fontawesome.com/b17cc3a995.js"></script>
 		<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
 		<script type="text/javascript" src="js/anuncio.js"></script>
