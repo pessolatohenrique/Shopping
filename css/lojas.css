@@ -2,6 +2,12 @@
 	clear: both;
 	position: relative;
 }
+.lojas img{
+	transition: opacity 1s;
+	-webkit-transition: opacity 1s;
+	-moz-transition: opacity 1s;
+	-o-transition: opacity 1s;
+}
 .lojas li:first-child,.lojas li:nth-child(2),.lojas li:nth-child(3),.lojas li:nth-child(4){
 	float: left;
 	box-sizing: border-box;

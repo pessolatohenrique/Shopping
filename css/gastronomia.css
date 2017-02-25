@@ -9,9 +9,13 @@
 	border-radius: 100%;
 	-webkit-border-radius: 100%;
     -moz-border-radius: 100%;
-    -webkit-box-shadow: 4px 6px 26px 3px rgba(0,0,0,0.75);
-    -moz-box-shadow: 4px 6px 26px 3px rgba(0,0,0,0.75);
-    box-shadow: 4px 6px 26px 3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0 0 30px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 0 30px rgba(0,0,0,0.75);
+    box-shadow: 0 0 30px rgba(0,0,0,0.75);
+	transition: opacity 1s;
+	-webkit-transition: opacity 1s;
+	-moz-transition: opacity 1s;
+	-o-transition: opacity 1s;
 }
 .gastronomia figcaption{
 	text-align: center;

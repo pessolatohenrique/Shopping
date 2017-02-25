@@ -18,7 +18,7 @@
 	<body>
 		<header>
 			<h1>
-				<a href="">
+				<a href="index.php">
 					<img src="img/morumbi_shopping.png" alt="Logotipo do Shopping">
 				</a>
 			</h1>
@@ -26,8 +26,8 @@
 				<ul class="servicos">
 					<li><a href="#">Cinema</a></li>
 					<li><a href="#">Gastronomia</a></li>
-					<li><a href="#">Lazer</a></li>
 					<li><a href="#">Lojas</a></li>
+					<li><a href="sobre.php">Sobre</a></li>
 					<li>
 						<span class="icone_localizado">
 							<i class="fa fa-map-marker" aria-hidden="true"></i>
