@@ -15,6 +15,7 @@
 		<script src="https://use.fontawesome.com/b17cc3a995.js"></script>
 		<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
 		<script type="text/javascript" src="js/anuncio.js"></script>
+		<script type="text/javascript" src="js/abasCinema.js"></script>
 	</head>
 	<body>
 		<header>
@@ -25,7 +26,7 @@
 			</h1>
 			<nav class="menu-principal">
 				<ul class="servicos">
-					<li><a href="#">Cinema</a></li>
+					<li><a href="cinema.php">Cinema</a></li>
 					<li><a href="#">Gastronomia</a></li>
 					<li><a href="#">Lojas</a></li>
 					<li><a href="sobre.php">Sobre</a></li>

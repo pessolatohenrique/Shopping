@@ -225,3 +225,9 @@ em{
     from {opacity: 0;}
     to {opacity: 1;}
 }
+.mostraElemento{
+	display: block;
+}
+.escondeElemento{
+	display: none;
+}
