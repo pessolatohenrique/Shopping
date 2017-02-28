@@ -27,15 +27,15 @@
 			<nav class="menu-principal">
 				<ul class="servicos">
 					<li><a href="cinema.php">Cinema</a></li>
-					<li><a href="#">Gastronomia</a></li>
-					<li><a href="#">Lojas</a></li>
+					<li><a href="gastronomia.php">Gastronomia</a></li>
+					<li><a href="lojas.php">Lojas</a></li>
 					<li><a href="sobre.php">Sobre</a></li>
 					<li>
 						<span class="icone_localizado">
 							<i class="fa fa-map-marker" aria-hidden="true"></i>
 						</span>
 						<a href="#">Localizado em<br>
-							<span class="localizacao-texto">São Paulo</span>
+							<span class="localizacao-texto">São Caetano do Sul</span>
 						</a>
 					</li>
 				</ul>

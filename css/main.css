@@ -231,3 +231,60 @@ em{
 .escondeElemento{
 	display: none;
 }
+.categorias{
+	width: 20%;
+	padding-top: 1em;
+	padding-bottom: 1.8em;
+	float: left;
+}
+.categorias h3{
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 1.3em;
+}
+.campoPesquisa{
+	width: 100%;
+	font-size: 0.9em;
+	font-weight: normal;
+	padding: 0.8em 0.3em;
+	box-sizing: border-box;
+	border: 1px solid #999;
+}
+.categorias li{
+	padding-top: 1em;
+	font-size: 0.9em;
+}
+.categorias li > a{
+	text-decoration: none;
+	color: #848c94;
+}
+.painel_itens{
+	width: 78%;
+	float: right;
+	margin-top: 1em;
+	box-sizing: border-box;
+}
+.itemPainel{
+	border: 1px solid #848C94;
+	padding: 0.8em 1em 1.3em 1em;
+	box-sizing: border-box;
+	margin-bottom: 1em;
+}
+.itemPainel h4{
+	text-transform: uppercase;
+	font-size: 1.7em;
+	font-weight: 800;
+}
+.itemPainel h4 > a{
+	text-decoration: none;
+	color: black;
+}
+.itemPainel li > ul li{
+	display: inline-block;
+}
+.itemPainel li > ul li:nth-of-type(n+2){
+	padding-left: 1.1em;
+}
+.categoriaItem{
+	text-transform: uppercase;
+}
